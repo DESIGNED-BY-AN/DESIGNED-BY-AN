@@ -18,16 +18,11 @@ Here are some ideas to get you started:
 Hello, welcome to my GitHub page!
 
 My name is Ngoc An Le, but please refer to me as An! (´｡• ω •｡`)<br/>
-I design software for fun during my spare time!
 
-- 💗 Home: Saigon, Vietnam 🇻🇳
-- 🏘 Place of Residence: Greater Toronto Area, Canada 🇨🇦
-- 🖌️ Main Language: Java
+- 🏠 Home: Ontario, Canada 🇨🇦
 - 😊 Pronouns: He/Him
-- 🔭 I’m currently working on a secret project involving the popular rhythm game osu! Keep an eye out for updates!
-- 🌱 I’m currently learning about various Java frameworks including Hibernate, Spring, etc.
-- 👯 I’m looking to collaborate on any Java-based projects!
-- 📫 You can reach me through the email address on my profile, or DM me on Twitter!
-- ⚡ Fun Fact: My traditional first name really is An — that's right, just 2 letters!
+- 🖌️ Languages: Java, C++ et al.
+- 👯 I’m looking for new collaborative/professional opportunities!
+- 📫 You can reach me through the email address on my profile!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5G20B2)
